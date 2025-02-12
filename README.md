@@ -129,6 +129,9 @@ The API includes proper error handling for:
 - Invalid genre types
 - Malformed requests
 
+## Deployment Details
+- List aws keys 
+
 ## Contributing
 
 1. Fork the repository
