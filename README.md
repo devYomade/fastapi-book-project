@@ -131,6 +131,8 @@ The API includes proper error handling for:
 
 ## Deployment Details
 - List aws keys 
+- added the key to github action
+- added user to github action
 
 ## Contributing
 
