@@ -15,6 +15,7 @@ jobs:
           key: ${{ secrets.EC2_KEY }}
           script: |
             cd fastapi-book-project
+            # Pull the latest code
             git stash
             git pull origin main
             # Stop existing containers
